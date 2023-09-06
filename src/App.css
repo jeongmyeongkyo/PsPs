@@ -1,0 +1,22 @@
+.ses{
+  height:90px; width:1600px; background-color:white;
+  margin-left:-6px; margin-top:-6px; border:solid;
+}
+.shop{
+  position:relative; left:400px; top:-43px;
+}
+.login{
+  position:relative; left:1300px; top:-60px;
+}
+.make{
+  position:relative; left:1400px; bottom:113px;
+}
+.ms{
+  height:30px; width:500px; position:relative;
+  left:550px; border:solid; text-align:center;
+  bottom:88px;
+}
+.logo{
+  height:80px; position:relative; top:7px;
+  left:7px;
+}
